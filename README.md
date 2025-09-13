@@ -1,1 +1,1 @@
-# Machine-Vision---CECS-553
+# Machine-Vision---CECS-553 CSULB
